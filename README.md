@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ## Uso
 
 ```bash
-python extrair_nessus.py
+python extractor_nessus.py
 ```
 
 ## Sobre o SSL
