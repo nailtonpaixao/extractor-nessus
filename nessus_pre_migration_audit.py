@@ -88,7 +88,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger("nessus_audit")
 
-DEFAULT_TIMEOUT = 30  # segundos
+DEFAULT_TIMEOUT = 180  # segundos
 
 
 # ---------------------------------------------------------------------------
